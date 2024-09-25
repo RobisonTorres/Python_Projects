@@ -1,3 +1,3 @@
 # Python Old Projects
 
-This repository gathers some old projects in Python.
+This repository gathers some projects in Python.
